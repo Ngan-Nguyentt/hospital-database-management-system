@@ -1,4 +1,3 @@
-USE Final_Project_DB_V2;
 -- 3. DOCTOR (30 records)
 INSERT INTO Doctor (FirstName,LastName,Specialization,PhoneNumber,Email,DepartmentID,Availability) VALUES
   ('Karen','Campbell','Cardiologist','613-141-1992','karen.campbell54@hospital.ca',1,'On Leave'),

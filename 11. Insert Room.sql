@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 -- 10. ROOM (40 records)
 INSERT INTO Room (RoomNumber,DepartmentID,RoomType,AvailabilityStatus) VALUES
   ('R101',1,'General','Occupied'),

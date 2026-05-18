@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 -- 9. STAFF (80 records)
 INSERT INTO Staff (FirstName,LastName,Role,DepartmentID,PhoneNumber,Email,ShiftHours) VALUES
   ('Elizabeth','Green','Technician',1,'613-513-7926','elizabeth.green633@hospital.ca','08:00-16:00'),

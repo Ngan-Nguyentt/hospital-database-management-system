@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 INSERT INTO Prescription (RecordID,MedicineID,Dosage,Frequency,Duration) VALUES
   (79,16,'10mg','As needed','5 days'),
   (337,2,'500mg','As needed','5 days'),

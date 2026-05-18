@@ -1,4 +1,3 @@
-USE Final_Project_DB_V2;
 -- 1. DEPARTMENT 8 rows
 INSERT INTO Department (DepartmentName,Location,PhoneExtension) VALUES
   ('Cardiology','Building A, Floor 3','1001'),

@@ -1,5 +1,3 @@
-use Final_Project_DB_V2;
-
 -- deparment table
 CREATE TABLE Department (
     DepartmentID    INT          NOT NULL IDENTITY(1,1) PRIMARY KEY,

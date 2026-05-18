@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 -- 5. MEDICAL RECORD (600 records)
 INSERT INTO MedicalRecord (PatientID,DoctorID,VisitDate,Diagnosis,TreatmentPlan,Prescription) VALUES
   (148,17,'2023-07-04','Anemia','Insulin therapy','See prescription #1'),

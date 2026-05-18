@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 -- BUSINESS QUESTIONS
 -- 1. How many doctors work in each department?
 -- 2. How many appointments were scheduled, completed, and cancelled in each department?

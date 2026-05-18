@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 INSERT INTO Billing (PatientID,TotalAmount,PaymentStatus,PaymentDate,PaymentMethod) VALUES
   (82,1764.51,'Unpaid',NULL,NULL),
   (39,2336.64,'Partial','2025-10-18','Credit Card'),

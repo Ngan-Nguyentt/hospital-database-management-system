@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 INSERT INTO RoomAssignment (RoomID,PatientID,AdmissionDate,DischargeDate) VALUES
   (4,192,'2024-04-14','2024-04-18'),
   (27,29,'2023-10-22',NULL),

@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 -- 4. APPOINTMENT (700 records — 2-5 per patient, realistic avg)
 INSERT INTO Appointment (PatientID,DoctorID,DepartmentID,AppointmentDate,AppointmentTime,Status) VALUES
   (107,9,1,'2023-03-06','11:00:00','Completed'),

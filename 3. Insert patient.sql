@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 -- 2. PATIENT (200 records)
 INSERT INTO Patient (FirstName,LastName,DateOfBirth,Gender,Address,PhoneNumber,Email,EmergencyContactName,EmergencyContactPhone) VALUES
   ('Betty','Miller','2003-10-12','Female','184 Oak St, Ottawa, ON','613-354-3183','betty.miller779@gmail.com','Andrew Adams','613-492-9696'),

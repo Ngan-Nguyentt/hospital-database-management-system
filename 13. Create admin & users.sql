@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 
 --Step 1: Create Login
 -- 1 admin: (full access)

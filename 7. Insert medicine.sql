@@ -1,5 +1,3 @@
-USE Final_Project_DB_V2;
-
 -- 6. MEDICINE (50 records)
 INSERT INTO Medicine (MedicineName,Manufacturer,StockQuantity,Price) VALUES
   ('Metformin','Apotex Inc',5000,12.5),
