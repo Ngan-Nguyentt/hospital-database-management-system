@@ -29,4 +29,4 @@ Team project by:
 - **Duc Anh Ngo**
 - **DongHwan Won**
 
-Business Intelligence & Data Analytics students, Algonquin College
+Business Intelligence System Infrastructure students, Algonquin College
