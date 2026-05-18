@@ -23,5 +23,10 @@ Run the SQL scripts in numbered order:
 4. `14. Business Question.sql` — analytical queries
 5. `DB_Hospital_Database_Management_System_Dashboard.pbix` — Power BI dashboard
 
-## Author
-Ngan Nguyen — Business Intelligence & Data Analytics student, Algonquin College
+## Authors
+Team project by:
+- **Ngan Nguyen**
+- **Duc Anh Ngo**
+- **DongHwan Won**
+
+Business Intelligence & Data Analytics students, Algonquin College
